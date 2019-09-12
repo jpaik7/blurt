@@ -1,0 +1,26 @@
+{
+  "name": "blurt_web",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "connect-mongo": "~0.8.2",
+    "express": "~4.13.2",
+    "express-session": "~1.11.3",
+    "node-uuid": "~1.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeon97/blurt_web.git"
+  },
+  "author": "Jaehyun Jeon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeon97/blurt_web/issues"
+  },
+  "homepage": "https://github.com/jeon97/blurt_web"
+}
